@@ -1,0 +1,20 @@
+{
+  "name": "random-messages-de-arturokn",
+  "version": "1.0.0",
+  "description": "This is a random message that outputs a random name everytime it get executed",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "node",
+    "npm"
+  ],
+  "author": "Arturo Knees <artuknees@gmail.com>",
+  "license": "MIT",
+  "bin": {
+    "random-msg": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
